@@ -1,0 +1,30 @@
+testing:
+
+⦁ Console App project template for .NET Core, and then click Next.
+⦁ Name the project Bank, and then click Next.
+⦁ Choose either the recommended target framework or .NET 6, and then choose Create.
+⦁ The Bank project is created and displayed in Solution Explorer with the Program.cs file open in the code editor.
+⦁ Replace the contents of Program.cs with the following C# code that defines a class, BankAccount:
+⦁ choosing Rename in Solution Explorer.
+⦁ On the Build menu, click Build Solution (or press Ctrl + SHIFT + B).
+
+unit test project:
+⦁ On the File menu, select Add > New Project.
+⦁ Type test in the search box, select C# as the language, and then select the C# Unit Test Project for .NET Core template, and then click Next.
+⦁ Name the project BankTests and click Next.
+⦁ Choose either the recommended target framework or .NET 6, and then choose Create.
+⦁ The BankTests project is added to the Bank solution.
+⦁ In the BankTests project, add a reference to the Bank project.
+⦁ In Solution Explorer, select Dependencies under the BankTests project and then choose Add Reference from the right-click menu.
+⦁ In the Reference Manager dialog box, expand Projects, select Solution, and then check the Bank item.
+⦁ Choose OK.
+
+Rename a file and class:
+⦁ file: UnitTest1.cs  to BankAccountTests.cs 
+⦁ class:BankAccountTests
+
+
+⦁	Either go to Solution Explorer (Ctrl +Alt+L) and right click on Solution ‘BasicMath’ and click on Build Solution or go to Build Menu (Alt + B) and Click on Build Solution.
+⦁	Choose Test Menu -> Run -> All Test or instead of this step, you can follow the given step also.
+⦁	Go to Test Explorer and click Run All to run the tests for all the test methods .
+

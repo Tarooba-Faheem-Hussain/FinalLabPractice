@@ -14,6 +14,22 @@ namespace ConsoleApp1
             }
         }
 
+        public int x
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public int y
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public void clear()
         {
             throw new NotImplementedException();

@@ -14,7 +14,7 @@ namespace ConsoleApp1
             }
         }
 
-        public int desc
+        public string desc
         {
             get => default;
             set

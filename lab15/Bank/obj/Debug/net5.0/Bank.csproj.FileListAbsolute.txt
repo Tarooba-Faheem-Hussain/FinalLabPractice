@@ -1,0 +1,16 @@
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache

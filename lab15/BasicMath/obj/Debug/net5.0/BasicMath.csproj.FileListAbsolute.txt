@@ -1,0 +1,5 @@
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\BasicMath\obj\Debug\net5.0\BasicMath.csproj.AssemblyReference.cache
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\BasicMath\obj\Debug\net5.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\BasicMath\obj\Debug\net5.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\BasicMath\obj\Debug\net5.0\BasicMath.AssemblyInfo.cs
+C:\Users\TahaF\Desktop\FinalLab-Practice\lab15\BasicMath\obj\Debug\net5.0\BasicMath.csproj.CoreCompileInputs.cache

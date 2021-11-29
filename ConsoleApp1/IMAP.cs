@@ -7,5 +7,6 @@ namespace ConsoleApp1
     public interface IMAP
     {
         void JumpToLocation();
+        void clear();
     }
 }

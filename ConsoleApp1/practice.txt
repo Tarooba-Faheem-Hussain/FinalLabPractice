@@ -1,0 +1,24 @@
+Practice:
+
+Environment.NewLine is a platform-independent and language-independent way to represent a line break.
+Alternatives are \n in C# and vbCrLf in Visual Basic.
+
+The dollar sign ($) in front of a string lets you put expressions such as variable names in curly braces
+ in the string. The expression value is inserted into the string in place of the expression.
+ This syntax is referred to as interpolated strings.
+
+
+	Console.WriteLine("What is your name?");
+	var name = Console.ReadLine();
+	var currentDate = DateTime.Now;
+	Console.WriteLine($"{Environment.NewLine}Hello {name} on {currentDate:d} at {currentDate:t}!");
+	Console.Write($"{Environment.NewLine}Press any key to exit...");
+	Console.ReadKey();
+
+Use Debug build configuration:
+Debug and Release are Visual Studio's built-in build configurations. You use the Debug build configuration for debugging and the Release configuration for the final release distribution.
+
+
+⦁	On the Build menu, click Build Solution (or press Ctrl + SHIFT + B).
+You now have a project with methods you can test. In this article, the tests focus on the Debit method. The Debit method is called when money is withdrawn from an account.
+
